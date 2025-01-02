@@ -1,6 +1,10 @@
 # Singularity Lab Portal
 
-IT学習コミュニティ「シンギュラリティ・ラボ」の会員専用ポータルサイト
+オンラインサロン「シンギュラリティ・ラボ」の会員専用ポータルサイト
+
+## 公式 Website
+
+https://sinlab.future-tech-association.org
 
 ## 技術スタック
 
@@ -8,6 +12,8 @@ IT学習コミュニティ「シンギュラリティ・ラボ」の会員専用
 - Supabase
 - Prisma
 - TailwindCSS
+- Mantine
+- Clerk
 - Vercel
 
 ## 開発環境のセットアップ
